@@ -17,3 +17,11 @@ IPAddressToInteger ⮕ Function to convert IP to int
 # Trigger
 
 allow_ipaddress ⮕ Trigger to allow connection only for client IPs/ranges found in table IPAllow 
+
+# References
+
+Original IP blocking code with simple Range mask:
+http://sql-articles.com/articles/security/ip-address-blocking-or-restriction-in-sql-server/
+
+Original source of function IPAddressIsInRange and IPAddressToInteger:
+https://gist.github.com/phdesign/e899c7536375ad0d373262226c0d00ec
