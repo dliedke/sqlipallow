@@ -4,6 +4,13 @@ These scripts are used to allow only IPs/Range defined for clients to connect to
 sqlipallow1.sql ⮕ Creates tables and functions (IPs/Ranges can be configured in this script)<br>
 sqlipallow2.sql ⮕ Creates trigger<br>
 rollback.sql ⮕ Rollback all the changes<br>
+<br>
+It is possible to check SQL Server Logs for troubleshooting:
+<br>
+![View Sql Server Logs](https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png)
+<br>
+![Sql Server Logs](https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png)
+<br>
 
 # Table IPAllow
 This table is used to store IPs/Ranges allowed to connect to database. IP ranges uses CIDR (Classless Inter-Domain Routing) notation. More explanation about this notation can be found at https://networkengineering.stackexchange.com/questions/3697/the-slash-after-an-ip-address-cidr-notation<br>
