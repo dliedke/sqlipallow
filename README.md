@@ -1,5 +1,5 @@
-# SQL IP Allow
-These scripts are used to allow only IPs/Range defined to connect to SQL Database without firewall changes.
+# SQL scripts IP Allow
+These scripts are used to allow only IPs/Range defined for clients to connect to SQL Database without any firewall changes.
 
 # Table master.dbo.IPAllow
 This table is used to store IPs/Ranges allowed to connect to database. IP ranges uses CIDR (Classless Inter-Domain Routing) notation. More explanation about this notation can be found at https://networkengineering.stackexchange.com/questions/3697/the-slash-after-an-ip-address-cidr-notation
