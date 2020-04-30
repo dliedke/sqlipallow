@@ -1,5 +1,5 @@
 # SQL scripts IP Allow
-These scripts are used to allow only IPs/Range defined for clients to connect to SQL Database without any firewall changes:
+These scripts are used to allow only IPs/Range defined for clients to connect to SQL Database without any firewall changes:<br>
 <br>
 sqlipallow1.sql ⮕ Creates tables and functions<br>
 sqlipallow2.sql ⮕ Creates trigger<br>
