@@ -8,10 +8,10 @@ rollback.sql ⮕ Rollback all the changes<br>
 It is possible to check SQL Server Logs for troubleshooting:
 <br>
 <br>
-<img src="https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png" alt="View Sql Server Logs" width="300"/>
+<img src="https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png" alt="View Sql Server Logs" width="350"/>
 <br>
 <br>
-<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="450"/>
+<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="550"/>
 <br>
 
 # Table IPAllow
@@ -33,7 +33,7 @@ allow_ipaddress ⮕ Trigger to allow connection only for client IPs/ranges found
 
 # References
 
-Original IP blocking code with simple range mask:<br>
+Original IP blocking code with simple range mask and more explanations:<br>
 http://sql-articles.com/articles/security/ip-address-blocking-or-restriction-in-sql-server/<br>
 <br>
 Original source of functions IPAddressIsInRange and IPAddressToInteger:<br>
