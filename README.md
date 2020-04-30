@@ -11,7 +11,7 @@ It is possible to check SQL Server Logs for troubleshooting:
 <img src="https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png" alt="View Sql Server Logs" width="350"/>
 <br>
 <br>
-<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="550"/>
+<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="650"/>
 <br>
 
 # Table IPAllow
