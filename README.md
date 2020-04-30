@@ -20,8 +20,8 @@ allow_ipaddress ⮕ Trigger to allow connection only for client IPs/ranges found
 
 # References
 
-Original IP blocking code with simple Range mask:
+Original IP blocking code with simple Range mask:<br>
 http://sql-articles.com/articles/security/ip-address-blocking-or-restriction-in-sql-server/
 
-Original source of function IPAddressIsInRange and IPAddressToInteger:
+Original source of function IPAddressIsInRange and IPAddressToInteger:<br>
 https://gist.github.com/phdesign/e899c7536375ad0d373262226c0d00ec
