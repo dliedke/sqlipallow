@@ -7,10 +7,11 @@ rollback.sql ⮕ Rollback all the changes<br>
 <br>
 It is possible to check SQL Server Logs for troubleshooting:
 <br>
-<img src="https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png" alt="View Sql Server Logs" width="250"/>
+<br>
+<img src="https://github.com/dliedke/sqlipallow/blob/master/images/ViewSqlServerLogs.png" alt="View Sql Server Logs" width="300"/>
 <br>
 <br>
-<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="250"/>
+<img src="https://github.com/dliedke/sqlipallow/blob/master/images/SqlServerLogs.png" alt="Sql Server Logs" width="450"/>
 <br>
 
 # Table IPAllow
