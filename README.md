@@ -1,7 +1,7 @@
 # SQL scripts IP Allow
 These scripts are used to allow only IPs/Range defined for clients to connect to SQL Database without any firewall changes:<br>
 <br>
-sqlipallow1.sql ⮕ Creates tables and functions<br>
+sqlipallow1.sql ⮕ Creates tables and functions (IPs/Ranges can be configured in this script)<br>
 sqlipallow2.sql ⮕ Creates trigger<br>
 rollback.sql ⮕ Rollback all the changes<br>
 
